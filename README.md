@@ -120,8 +120,6 @@ The lab contains **10 verification objectives**, grouped into three phases. Each
 
 Each captured token follows the format `FLAG{...}`. If you extract an inner value through an encoding or formatting bypass, wrap it back in `FLAG{...}`.
 
-> The guided briefing document (`AI-SEC-STUDENT-GUIDE.html`) ships with the lab and contains per-objective methodology hints, a progress tracker, and a flag syntax validator.
-
 ---
 
 ## Rules of Engagement
